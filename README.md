@@ -8,7 +8,7 @@
 Projeto realizado durante Curso de JavaScript na plataforma Curso em Vídeo
 
 
-<img src="" width="500">
+<img src="Captura de tela.png" width="400">
 
 
 [![Linkedin: Mariana Focassio](https://img.shields.io/badge/-marianafocassio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianafocassio/)](https://www.linkedin.com/in/marianafocassio/)
